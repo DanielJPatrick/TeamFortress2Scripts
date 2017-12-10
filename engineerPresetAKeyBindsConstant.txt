@@ -1,0 +1,4 @@
+alias +4Key +buildMenuCmd
+alias -4Key -buildMenuCmd
+alias +5Key +destroyMenuCmd
+alias -5Key -destroyMenuCmd

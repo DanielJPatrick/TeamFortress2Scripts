@@ -1,0 +1,168 @@
+alias +mouse1Key +attackCmd
+alias -mouse1Key -attackCmd
+alias +mouse2Key +attack2Cmd
+alias -mouse2Key -attack2Cmd
+alias +mouse3Key +switchPrimaryCmd
+alias -mouse3Key -switchPrimaryCmd
+alias +mWheelUpKey +switchSecondaryCmd
+alias -mWheelUpKey -switchSecondaryCmd
+alias +mWheelDownKey +switchMeleeCmd
+alias -mWheelDownKey -switchMeleeCmd
+alias +1Key +switchPrimaryCmd
+alias -1Key -switchPrimaryCmd
+alias +2Key +switchSecondaryCmd
+alias -2Key -switchSecondaryCmd
+alias +3Key +switchMeleeCmd
+alias -3Key -switchMeleeCmd
+alias +4Key +slot4Cmd
+alias -4Key -slot4Cmd
+alias +5Key +slot5Cmd
+alias -5Key -slot5Cmd
+alias +6Key +switchGrapplingHookCmd
+alias -6Key -switchGrapplingHookCmd
+alias +7Key +slot7Cmd
+alias -7Key -slot7Cmd
+alias +8Key +slot8Cmd
+alias -8Key -slot8Cmd
+alias +9Key +slot9Cmd
+alias -9Key -slot9Cmd
+alias +0Key +slot10Cmd
+alias -0Key -slot10Cmd
+alias +qKey +switchSecondaryCmd
+alias -qKey -switchSecondaryCmd
+alias +eKey +switchMeleeCmd
+alias -eKey -switchMeleeCmd
+alias +rKey +reloadCmd
+alias -rKey -reloadCmd
+alias +wKey +forwardCmdGlobal&ConstantOnly
+alias -wKey -forwardCmdGlobal&ConstantOnly
+alias +sKey +backCmdGlobal&ConstantOnly
+alias -sKey -backCmdGlobal&ConstantOnly
+alias +aKey +leftCmdGlobal&ConstantOnly
+alias -aKey -leftCmdGlobal&ConstantOnly
+alias +dKey +rightCmdGlobal&ConstantOnly
+alias -dKey -rightCmdGlobal&ConstantOnly
+alias +tabKey +voiceChatToggleCmd
+alias -tabKey -voiceChatToggleCmd
+alias +tKey
+alias -tKey
+alias +fKey +actionSlotCmd
+alias -fKey -actionSlotCmd
+alias +shiftKey +duckCmdGlobal&ConstantOnly
+alias -shiftKey -duckCmdGlobal&ConstantOnly
+alias +spaceKey +jumpCmdGlobal&ConstantOnly
+alias -spaceKey -jumpCmdGlobal&ConstantOnly
+alias +ctrlKey +duckCmdGlobal&ConstantOnly
+alias -ctrlKey -duckCmdGlobal&ConstantOnly
+alias +kp_endKey +loadPresetACmd
+alias -kp_endKey -loadPresetACmd
+alias +kp_downArrowKey +loadPresetBCmd
+alias -kp_downArrowKey -loadPresetBCmd
+alias +kp_pgDnKey +loadPresetCCmd
+alias -kp_pgDnKey -loadPresetCCmd
+alias +kp_leftArrowKey +loadPresetDCmd
+alias -kp_leftArrowKey -loadPresetDCmd
+alias +kp_5Key
+alias -kp_5Key
+alias +kp_rightArrowKey
+alias -kp_rightArrowKey
+alias +kp_minusKey +suicideCmd
+alias -kp_minusKey -suicideCmd
+alias +kp_plusKey
+alias -kp_plusKey
+alias +enterKey +toggleRegenCmd
+alias -enterKey -toggleRegenCmd
+alias +insKey +teleportPosition1ToggleCmd
+alias -insKey -teleportPosition1ToggleCmd
+alias +homeKey +teleportPosition2ToggleCmd
+alias -homeKey -teleportPosition2ToggleCmd
+alias +pgupKey +teleportPosition3ToggleCmd
+alias -pgupKey -teleportPosition3ToggleCmd
+alias +delKey +teleportPosition4ToggleCmd
+alias -delKey -teleportPosition4ToggleCmd
+alias +endKey +teleportPosition5ToggleCmd
+alias -endKey -teleportPosition5ToggleCmd
+alias +pgDnKey +teleportPosition6ToggleCmd
+alias -pgDnKey -teleportPosition6ToggleCmd
+alias +backSpaceKey +teleportToggleCmd
+alias -backSpaceKey -teleportToggleCmd
+alias +altKey +holdToggleCallMiniMenuCmd
+alias -altKey -holdToggleCallMiniMenuCmd
+alias +bKey lastdisguise
+alias -bKey
+alias +cKey +attack3Cmd
+alias -cKey -attack3Cmd
+alias +gKey "removecond 7; taunt;"
+alias -gKey
+alias +hKey +taunt
+alias -hKey -taunt
+alias +iKey showmapinfo
+alias -iKey
+alias +jKey cl_trigger_first_notification;
+alias -jKey
+alias +kKey cl_decline_first_notification;
+alias -kKey
+alias +lKey dropitem
+alias -lKey
+alias +mKey open_charinfo_direct
+alias -mKey
+alias +nKey open_charinfo_backpack
+alias -nKey
+alias +oKey
+alias -oKey
+alias +pKey vr_reset_home_pos
+alias -pKey
+alias +uKey say_team
+alias -uKey
+alias +vKey +voicerecord
+alias -vKey -voicerecord
+alias +xKey voice_menu_2
+alias -xKey
+alias +yKey say
+alias -yKey
+alias +zKey voice_menu_1
+alias -zKey
+alias +`Key toggleconsole
+alias -`Key
+alias +,Key changeclass
+alias -,Key
+alias +.Key changeteam
+alias -.Key
+alias +escapeKey cancelselect
+alias -escapeKey
+alias +pauseKey kill
+alias -pauseKey
+alias +f1Key +showscores
+alias -f1Key -showscores
+alias +f2Key askconnect_accept
+alias -f2Key
+alias +f3Key show_quest_log
+alias -f3Key
+alias +f5Key screenshot
+alias -f5Key
+alias +f6Key save_replay
+alias -f6Key
+alias +f7Key abuse_report_queue
+alias -f7Key
+alias +f9Key vr_toggle
+alias -f9Key
+alias +f10Key quit prompt
+alias -f10Key
+alias +f12Key replay_togglereplaytips
+alias -f12Key
+alias +'Key
+alias -'Key
+alias +/Key	
+alias -/Key
+alias +=Key inspect
+alias -=Key
+alias +/
+alias -/ 
+alias +'
+alias -'
+alias +numLockKey +toggleWeaponModelModeCmd
+alias -numLockKey -toggleWeaponModelModeCmd
+alias +kp_multiplyKey +textChatDisableToggleCmd
+alias -kp_multiplyKey -textChatDisableToggleCmd
+alias +kp_slashKey +voiceChatDisableToggleCmd
+alias -kp_slashKey -voiceChatDisableToggleCmd

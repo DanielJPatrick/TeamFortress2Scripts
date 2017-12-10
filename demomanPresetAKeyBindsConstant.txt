@@ -1,0 +1,6 @@
+alias +mouse4Key +toggleAttack2Cmd
+alias -mouse4Key -toggleAttack2Cmd
+alias +mouse5Key +toggleRapidAttackCmd
+alias -mouse5Key -toggleRapidAttackCmd
+//alias +attack2Modifier +chargeCmd
+//alias -attack2Modifier -chargeCmd

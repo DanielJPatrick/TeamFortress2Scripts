@@ -1,0 +1,16 @@
+alias +qKey +switchPreviousCmd
+alias -qKey -switchPreviousCmd
+alias +eKey +switchMeleeCmd
+alias -eKey -switchMeleeCmd
+alias +mouse3Key +switchPrimaryCmd
+alias -mouse3Key -switchPrimaryCmd
+alias +mouse4Key +holdSwitchXBowShotCmd
+alias -mouse4Key -holdSwitchXBowShotCmd
+alias +mouse5Key +fireResistanceCmd
+alias -mouse5Key -fireResistanceCmd
+alias +mWheelUpKey +mWheelBulletResistanceCmd
+alias -mWheelUpKey -mWheelBulletResistanceCmd
+alias +mWheelDownKey +mWheelExplosiveResistanceCmd
+alias -mWheelDownKey -mWheelExplosiveResistanceCmd
+alias +rKey +resyncResistanceOnDeathCmd
+alias -rKey -resyncResistanceOnDeathCmd

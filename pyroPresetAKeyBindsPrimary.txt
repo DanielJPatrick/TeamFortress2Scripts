@@ -1,0 +1,10 @@
+alias +qKey +switchSecondaryCmd
+alias -qKey -switchSecondaryCmd
+alias +eKey +switchMeleeCmd
+alias -eKey -switchMeleeCmd
+alias +mouse3Key +switchPreviousCmd
+alias -mouse3Key -switchPreviousCmd
+alias +mouse4Key +airBlastShotgunComboCmd
+alias -mouse4Key -airBlastShotgunComboCmd
+alias +mouse5Key +holdSwitchFlareJumpCmd
+alias -mouse5Key -holdSwitchFlareJumpCmd

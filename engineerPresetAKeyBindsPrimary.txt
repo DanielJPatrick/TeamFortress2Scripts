@@ -1,0 +1,12 @@
+alias +qKey +switchSecondaryCmd
+alias -qKey -switchSecondaryCmd
+alias +eKey +switchMeleeCmd
+alias -eKey -switchMeleeCmd
+alias +mouse3Key +switchPreviousCmd
+alias -mouse3Key -switchPreviousCmd
+alias +mouse2Key +attack2Cmd
+alias -mouse2Key -attack2Cmd
+alias +mouse4Key +buildQuickSentryCmd
+alias -mouse4Key -buildQuickSentryCmd
+alias +mouse5Key +destroySentryCmd
+alias -mouse5Key -destroySentryCmd

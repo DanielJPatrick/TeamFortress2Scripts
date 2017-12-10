@@ -1,0 +1,12 @@
+alias +attackModifier +normalAttackMod
+alias -attackModifier -normalAttackMod
+alias +qKey +switchSecondaryCmd
+alias -qKey -switchSecondaryCmd
+alias +eKey +switchMeleeCmd
+alias -eKey -switchMeleeCmd
+alias +mouse3Key +switchPreviousCmd
+alias -mouse3Key -switchPreviousCmd
+alias +mouse4Key +quickScopeShotCmd
+alias -mouse4Key -quickScopeShotCmd
+alias +mouse5Key +holdSwitchJarateCmd
+alias -mouse5Key -holdSwitchJarateCmd

@@ -1,0 +1,12 @@
+alias +qKey +switchPreviousCmd
+alias -qKey -switchPreviousCmd
+alias +eKey +switchMeleeCmd
+alias -eKey -switchMeleeCmd
+alias +mouse3Key +switchPrimaryCmd
+alias -mouse3Key -switchPrimaryCmd
+alias +mouse2Key +holdSwitchPrimaryCmd
+alias -mouse2Key -holdSwitchPrimaryCmd
+alias +mouse4Key +holdSwitchPrimaryCmd
+alias -mouse4Key -holdSwitchPrimaryCmd
+alias +mouse5Key +holdSwitchPrimaryCmd
+alias -mouse5Key -holdSwitchPrimaryCmd

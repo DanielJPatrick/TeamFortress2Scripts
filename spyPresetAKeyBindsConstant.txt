@@ -1,0 +1,10 @@
+//alias +mouse3Key +disguiseWeaponSwitchToggleCmd
+//alias -mouse3Key -disguiseWeaponSwitchToggleCmd
+alias +mouse4Key +disguiseEnemyMenuCmd
+alias -mouse4Key -disguiseEnemyMenuCmd
+alias +mouse5Key +disguiseAllyMenuCmd
+alias -mouse5Key -disguiseAllyMenuCmd
+alias +4Key +disguiseEnemyMenuCmd
+alias -4Key -disguiseEnemyMenuCmd
+alias +5Key +disguiseAllyMenuCmd
+alias -5Key -disguiseAllyMenuCmd

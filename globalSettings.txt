@@ -1,0 +1,131 @@
+// CLASS DEFAULT PRESET SETTINGS -------------------------------------------------------------------------------------------------------------------------------------
+
+//<-------------- Disable three of the following four lines by inserting // at the start like this line
+alias demomanPresetDefault loadPresetA   // On class change to demoman will automatically load preset A
+//alias demomanPresetDefault loadPresetB   // On class change to demoman will automatically load preset B
+//alias demomanPresetDefault loadPresetC   // On class change to demoman will automatically load preset C
+//alias demomanPresetDefault loadPresetD   // On class change to demoman will automatically load preset D
+
+//<-------------- Disable three of the following four lines by inserting // at the start like this line.
+alias soldierPresetDefault loadPresetA   // On class change to soldier will automatically load preset A
+//alias soldierPresetDefault loadPresetB   // On class change to soldier will automatically load preset B
+//alias soldierPresetDefault loadPresetC   // On class change to soldier will automatically load preset C
+//alias soldierPresetDefault loadPresetD   // On class change to soldier will automatically load preset D
+
+//<-------------- Disable three of the following four lines by inserting // at the start like this line.
+alias sniperPresetDefault loadPresetA   // On class change to sniper will automatically load preset A
+//alias sniperPresetDefault loadPresetB   // On class change to sniper will automatically load preset B
+//alias sniperPresetDefault loadPresetC   // On class change to sniper will automatically load preset C
+//alias sniperPresetDefault loadPresetD   // On class change to sniper will automatically load preset D
+
+//<-------------- Disable three of the following four lines by inserting // at the start like this line.
+alias medicPresetDefault loadPresetA   // On class change to medic will automatically load preset A
+//alias medicPresetDefault loadPresetB   // On class change to medic will automatically load preset B
+//alias medicPresetDefault loadPresetC   // On class change to medic will automatically load preset C
+//alias medicPresetDefault loadPresetD   // On class change to medic will automatically load preset D
+
+//<-------------- Disable three of the following four lines by inserting // at the start like this line.
+alias pyroPresetDefault loadPresetA   // On class change to pyro will automatically load preset A
+//alias pyroPresetDefault loadPresetB   // On class change to pyro will automatically load preset B
+//alias pyroPresetDefault loadPresetC   // On class change to pyro will automatically load preset C
+//alias pyroPresetDefault loadPresetD   // On class change to pyro will automatically load preset D
+
+//<-------------- Disable three of the following four lines by inserting // at the start like this line.
+alias engineerPresetDefault loadPresetA   // On class change to engineer will automatically load preset A
+//alias engineerPresetDefault loadPresetB   // On class change to engineer will automatically load preset B
+//alias engineerPresetDefault loadPresetC   // On class change to engineer will automatically load preset C
+//alias engineerPresetDefault loadPresetD   // On class change to engineer will automatically load preset D
+
+//<-------------- Disable three of the following four lines by inserting // at the start like this line.
+alias heavyweaponsPresetDefault loadPresetA   // On class change to heavyweapons will automatically load preset A
+//alias heavyweaponsPresetDefault loadPresetB   // On class change to heavyweapons will automatically load preset B
+//alias heavyweaponsPresetDefault loadPresetC   // On class change to heavyweapons will automatically load preset C
+//alias heavyweaponsPresetDefault loadPresetD   // On class change to heavyweapons will automatically load preset D
+
+//<-------------- Disable three of the following four lines by inserting // at the start like this line.
+alias scoutPresetDefault loadPresetA   // On class change to scout will automatically load preset A
+//alias scoutPresetDefault loadPresetB   // On class change to scout will automatically load preset B
+//alias scoutPresetDefault loadPresetC   // On class change to scout will automatically load preset C
+//alias scoutPresetDefault loadPresetD   // On class change to scout will automatically load preset D
+
+//<-------------- Disable three of the following four lines by inserting // at the start like this line.
+alias spyPresetDefault loadPresetA   // On class change to spy will automatically load preset A
+//alias spyPresetDefault loadPresetB   // On class change to spy will automatically load preset B
+//alias spyPresetDefault loadPresetC   // On class change to spy will automatically load preset C
+//alias spyPresetDefault loadPresetD   // On class change to spy will automatically load preset D
+
+
+// DEFAULT COMMUNICATION SETTINGS ------------------------------------------------------------------------------------------------------------------------------------------------------
+
+//<-------------- Disable one of the following two lines by inserting // at the start like this line
+textChatOn
+//textChatOff
+
+//<-------------- Disable one of the following two lines by inserting // at the start like this line
+voiceChatOn
+//voiceChatOff
+
+
+// MOUSE SETTINGS ------------------------------------------------------------------------------------------------------------------------------------------------------
+
+sensitivity 4.0
+m_rawinput "1"
+m_filter "0"
+m_customaccel "0"
+m_mouseaccel1 "0"
+m_mouseaccel2 "0"
+
+
+// CROSSHAIR SETTINGS ----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+alias globalCrosshairPrimary "cl_crosshair_blue 255; cl_crosshair_red 255; cl_crosshair_green 0; cl_crosshair_scale 30; cl_crosshair_file crosshair5"
+alias globalCrosshairSecondary "cl_crosshair_blue 255; cl_crosshair_red 0; cl_crosshair_green 255; cl_crosshair_scale 30; cl_crosshair_file crosshair5"
+alias globalCrosshairMelee "cl_crosshair_blue 0; cl_crosshair_red 255; cl_crosshair_green 255; cl_crosshair_scale 30; cl_crosshair_file crosshair5"
+alias globalCrosshairGrapplingHook "cl_crosshair_blue 153; cl_crosshair_red 153; cl_crosshair_green 255; cl_crosshair_scale 30; cl_crosshair_file crosshair5"
+
+
+// HUD SETTINGS ----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+cl_hud_minmode 1
+fov_desired 90
+viewmodel_fov 90-100
+hud_combattext 1
+hud_combattext_batching 1
+hud_combattext_batching_window 2.0
+hud_combattext_healing 1
+hud_combattext_doesnt_block_overhead_text 1
+tf_hud_no_crosshair_on_scope_zoom 1
+hud_medichealtargetmarker 1
+hud_medicautocallersthreshold 0
+tf_colorblindassist 1
+glow_outline_effect_enable 1
+cl_spec_carrieditems 1
+hud_freezecamhide 1
+
+
+// MISCELLANEOUS SETTINGS ------------------------------------------------------------------------------------------------------------------------------------------------------
+
+mat_vsync "0"
+tf_dingalingaling 1
+tf_dingaling_pitchmaxdmg 100
+tf_dingaling_pitchmindmg 100
+tf_dingaling_volume 1
+tf_dingalingaling_repeat_delay 0
+cl_cloud_settings 0
+tf_sniper_fullcharge_bell 1
+cl_interp_ratio 1
+cl_interp 0.0
+cl_interp_all 0.0
+
+
+// REQUIRED SETTINGS (DO NOT TOUCH) -----------------------------------------------------------------------------------------------------------------------------------------------
+
+tf_remember_activeweapon 1   // Leave set to 1
+tf_respawn_on_loadoutchanges 1   // Leave set to 1
+hud_fastswitch 1   // Leave set to 1
+cl_autoreload 0   // Leave set to 0
+tf_medigun_autoheal 0   // Leave set to 0
+hud_medicautocallers 1   // Leave set to 1
+developer 1   // Leave set to 1
+con_filter_enable 1   // Leave set to 1
+cl_autorezoom 0   // Leave set to 0

@@ -1,0 +1,44 @@
+// CROSSHAIR SETTINGS ---------------------------------------------------------------------------------------------------------------------------------------------
+globalCrosshairMelee
+
+
+// AUTORELOAD SETTINGS ---------------------------------------------------------------------------------------------------------------------------------------
+
+//<-------------- Disable one of the following two lines by inserting // at the start like this line
+//automaticReloadOn
+automaticReloadOff
+
+
+// WEAPON MODEL SETTINGS ----------------------------------------------------------------------------------------------------------------------------------------------
+
+//<-------------- Disable one of the following two lines by inserting // at the start like this line
+showWeaponModel
+//hideWeaponModel
+
+
+// ATTACK SETTINGS ----------------------------------------------------------------------------------------------------------------------------------------------
+
+//<-------------- Disable one of the following two lines by inserting // at the start like this line
+//autoAttackOn
+autoAttackOff
+
+
+// ATTACK2 SETTINGS ----------------------------------------------------------------------------------------------------------------------------------------------
+
+//<-------------- Disable one of the following two lines by inserting // at the start like this line
+//autoAttack2On
+autoAttack2Off
+
+
+// MOUSE WHEEL UP SETTINGS ----------------------------------------------------------------------------------------------------------------------------------------------
+
+//<-------------- Disable one of the following two lines by inserting // at the start like this line
+mWheelUpSingleClickModeOn
+//mWheelUpSingleClickModeOff
+
+
+// MOUSE WHEEL DOWN SETTINGS ----------------------------------------------------------------------------------------------------------------------------------------------
+
+//<-------------- Disable one of the following two lines by inserting // at the start like this line
+mWheelDownSingleClickModeOn
+//mWheelDownSingleClickModeOff
